@@ -1,7 +1,7 @@
 # [StiL - <em>Your electronic key to Lund University</em>](https://03haax.github.io/stil)
 
 ### Description
-This is an API to get the name associated with a Lund University StiL. The database contains about 113000 rows and was last updated 2024-05-11 meaning if you were registered later your entry will not exist.
+This is an API to get the name associated with a Lund University StiL. The database contains about 113000 rows and was last updated 2023-05-11 meaning if you were registered later your entry will not exist.
 
 ### Usage
 https://qiwmtbkaewogvhiojlkz.supabase.co/rest/v1/rpc/get?input=XX0000XX-s@student.lu.se
