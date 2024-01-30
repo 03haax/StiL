@@ -1,6 +1,6 @@
 {
-    "name": "StiL-ID API",
-    "short_name": "API",
+    "name": "StiL API",
+    "short_name": "StiL",
     "icons": [
         {
             "src": "./icons/android-chrome-192x192.png",
